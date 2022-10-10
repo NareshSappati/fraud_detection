@@ -1,2 +1,5 @@
 print("adding all the data processing code")
-print('new line added')
+
+a = 5
+b = 7
+print (a,' + ', b, ' = ', a+b)
